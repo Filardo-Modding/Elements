@@ -8,9 +8,9 @@ Inspiration:
 <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294116-botania-an-innovative-natural-magic-themed-tech">Botania | </a>
 <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-2-1a-updated-nov-22">BloodMagic</a>
 
-Minecraft Forum Thread: 
+Minecraft Forum Thread: WIP
 
-Check my twitter account for news: 
+Check my twitter account for news: <a href="https://twitter.com/_filardo_">Twitter</a>
 <br>
 <br>
 <br>
