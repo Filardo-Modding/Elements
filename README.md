@@ -4,8 +4,8 @@ Elements
 Elements is a magic mod based on the four elements of nature.
 
 Inspiration:
-<a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-2-1-updated-2014-12-23">Thaumcraft</a>
-<a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294116-botania-an-innovative-natural-magic-themed-tech">Botania</a>
+<a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-2-1-updated-2014-12-23">Thaumcraft | </a>
+<a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294116-botania-an-innovative-natural-magic-themed-tech">Botania | </a>
 <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-2-1a-updated-nov-22">BloodMagic</a>
 
 Minecraft Forum Thread: 
