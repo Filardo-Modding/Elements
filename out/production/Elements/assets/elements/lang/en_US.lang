@@ -1,0 +1,12 @@
+# Creative Tabs
+itemGroup.elements=Elements
+
+# Items
+item.essenceExtractor.name=Essence Extractor
+item.essenceAir.name=Air Essence
+item.essenceWater.name=Water Essence
+item.essenceFire.name=Fire Essence
+item.essenceEarth.name=Earth Essence
+
+#Blocks
+tile.elements:essenceInfuser.name=Essence Infuser
