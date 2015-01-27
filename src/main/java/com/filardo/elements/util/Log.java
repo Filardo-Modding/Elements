@@ -1,4 +1,4 @@
-package com.filardo.elements.utility;
+package com.filardo.elements.util;
 
 import com.filardo.elements.reference.Reference;
 import cpw.mods.fml.common.FMLLog;

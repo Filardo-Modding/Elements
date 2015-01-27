@@ -1,4 +1,4 @@
-package com.filardo.elements.utility;
+package com.filardo.elements.util;
 
 public class Names {
     public static class Blocks{

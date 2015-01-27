@@ -7,7 +7,7 @@ import com.filardo.elements.items.Essences.ItemWaterEssence;
 import com.filardo.elements.items.ItemElementsGeneric;
 import com.filardo.elements.items.ItemEssenceExtractor;
 import com.filardo.elements.reference.Reference;
-import com.filardo.elements.utility.Names;
+import com.filardo.elements.util.Names;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 @GameRegistry.ObjectHolder(Reference.MOD_ID)

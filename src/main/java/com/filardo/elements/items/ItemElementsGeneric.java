@@ -1,6 +1,6 @@
 package com.filardo.elements.items;
 
-import com.filardo.elements.CreativeTab.ElementsTab;
+import com.filardo.elements.creativetab.ElementsTab;
 import com.filardo.elements.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

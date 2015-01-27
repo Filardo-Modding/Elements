@@ -1,8 +1,8 @@
 package com.filardo.elements.blocks;
 
-import com.filardo.elements.CreativeTab.ElementsTab;
+import com.filardo.elements.creativetab.ElementsTab;
 import com.filardo.elements.reference.Reference;
-import com.filardo.elements.utility.Names;
+import com.filardo.elements.util.Names;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.BlockContainer;

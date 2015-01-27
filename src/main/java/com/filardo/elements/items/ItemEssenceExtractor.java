@@ -1,7 +1,7 @@
 package com.filardo.elements.items;
 
 import com.filardo.elements.init.ElementsItems;
-import com.filardo.elements.utility.Names;
+import com.filardo.elements.util.Names;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;

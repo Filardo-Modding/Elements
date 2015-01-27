@@ -6,7 +6,7 @@ import com.filardo.elements.init.ElementsItems;
 import com.filardo.elements.init.Recepies;
 import com.filardo.elements.proxy.CommonProxy;
 import com.filardo.elements.reference.Reference;
-import com.filardo.elements.utility.Log;
+import com.filardo.elements.util.Log;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;

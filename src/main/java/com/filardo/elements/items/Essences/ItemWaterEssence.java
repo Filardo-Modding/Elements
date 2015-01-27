@@ -1,6 +1,6 @@
 package com.filardo.elements.items.Essences;
 
-import com.filardo.elements.utility.Names;
+import com.filardo.elements.util.Names;
 
 public class ItemWaterEssence extends ItemEssence {
 

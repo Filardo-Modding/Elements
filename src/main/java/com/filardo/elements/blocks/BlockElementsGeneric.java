@@ -1,15 +1,13 @@
 package com.filardo.elements.blocks;
 
-import com.filardo.elements.CreativeTab.ElementsTab;
+import com.filardo.elements.creativetab.ElementsTab;
 import com.filardo.elements.reference.Reference;
-import com.filardo.elements.utility.Log;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.util.IIcon;
-import net.minecraft.world.IBlockAccess;
 
 public class BlockElementsGeneric extends Block
 {
